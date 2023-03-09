@@ -24,8 +24,8 @@ function Projects() {
             <ProjectCard
               imgPath={reactimg}
               isBlog={false}
-              title="Las Conde E-Commerce"
-              description="Electronic commerce developed in conjunction with Mr. Montecalvo for Las Conde bookstore created with react.js, react-router-dom, Material-UI, SweetAlert2, SASS and Firebase. It has functions that allow the user to send messages in real time, make purchases in real time and manage stock. The work got 10/10 in React.js CoderHouse Academy."
+              title="Las Condes E-Commerce"
+              description="Electronic commerce developed in conjunction with Mr. Montecalvo for Las Condes bookstore created with react.js, react-router-dom, Material-UI, SweetAlert2, SASS and Firebase. It has functions that allow the user to send messages in real time, make purchases in real time and manage stock. The work got 10/10 in React.js CoderHouse Academy."
               ghLink="https://github.com/BrunoMalatesta/React-Proyect-Conde"
               demoLink="https://lascondes.netlify.app/"
             />
