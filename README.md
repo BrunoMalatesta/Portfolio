@@ -29,6 +29,4 @@ npm i
 3) Iniciar servidor local
 ```bash
 npm start
-```#� �R�e�a�c�t�-�P�r�o�y�e�c�t�-�C�o�n�d�e�
-�
-�
+```
